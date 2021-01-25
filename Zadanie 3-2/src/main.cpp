@@ -44,7 +44,7 @@ void setup(void){
   pinMode(buttonDown, INPUT_PULLUP);
   pinMode(LedRed, OUTPUT);
   pinMode(LedGreen, OUTPUT);
-  pinMode(LedBlue, OUTPUT);
+   pinMode(LedBlue, OUTPUT);
   pinMode(went,OUTPUT);
   analogWrite(went,0);
 }
