@@ -2,15 +2,15 @@
 
 Nazwa: pm-lab-5  
 Autor: Paweł Dąbal (pawel.dabal@wat.edu.pl)  
-Opis: Projekt bazowy repozytorium na piąte spotkanie laboratoryjne z przedmiotu _Techniki mikroprocesorowej_.  
+Opis: Projekt bazowy repozytorium na piąte spotkanie laboratoryjne z przedmiotu _Technika mikroprocesorowa _.  
 Wersja: v1.0  
-Data: 10.06.2020 r.
+Data: 25.01.2021 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELEXXXXXX
+Imię i nazwisko studenta: Michał Kalenik   
+Numer albumu: 72531  
+Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
